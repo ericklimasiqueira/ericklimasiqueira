@@ -21,7 +21,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning embedded systems<br>🎯 Goals: Get an opportunity in embedded systems<br>🎲 Fun fact: Currently working as an Electronics Technician</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently Junior fullstack developer<br>🎲 Fun fact: Mr. Robot's biggest 
+</p>
 
 ###
 
