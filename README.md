@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently Junior fullstack developer<br>🎲 Fun fact: Mr. Robot's biggest 
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently Mid-Level fullstack developer<br>🎲 Fun fact: Mr. Robot's biggest 
 </p>
 
 ###
